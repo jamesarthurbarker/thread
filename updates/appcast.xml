@@ -3,6 +3,18 @@
     <channel>
         <title>Thread</title>
         <item>
+            <title>0.2.0</title>
+            <pubDate>Thu, 09 Jul 2026 12:45:18 -0700</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/jamesarthurbarker/thread/main/updates/Thread-0.2.0.dmg" length="2654214" type="application/octet-stream" sparkle:edSignature="fNvIBV7Vm0xfThanAHPp0NohAl2rB/Wm2CpJ6wWMyrV8s9MDvlHOPKCQhaPHQWlLyiAelxz2e1d32LiZpLc0Bg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/jamesarthurbarker/thread/main/updates/Thread2-1.delta" sparkle:deltaFrom="1" length="123810" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UY6uAFgq2E+YwESVWvvryIIfj4sacN0hYXEePADaaLm0RSSXOumuIbyXJaqxMzxqSEweeOA4hsKYIPrDAMJADQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Thu, 09 Jul 2026 11:29:02 -0700</pubDate>
             <sparkle:version>1</sparkle:version>
