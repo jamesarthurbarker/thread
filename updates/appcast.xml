@@ -3,6 +3,19 @@
     <channel>
         <title>Thread</title>
         <item>
+            <title>0.3.0</title>
+            <pubDate>Thu, 09 Jul 2026 17:22:47 -0700</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/jamesarthurbarker/thread/main/updates/Thread-0.3.0.dmg" length="2735963" type="application/octet-stream" sparkle:edSignature="1F2KymCCSSotGJ1xWxOSPiiaCIHoC1tW8gIa0YxZ+uYnqhtDFqydesfDvgKS/cU2s8mpiEifkrsgHeLj+GevCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/jamesarthurbarker/thread/main/updates/Thread3-2.delta" sparkle:deltaFrom="2" length="129454" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="efRoUhe23UO/Vv5t63lAzETw682EQHhdi74RCVgKyZlP+o71JpqMUX9RsFxu3RVjYi5lW3rFqOo9N8qZaY5SAg=="/>
+                <enclosure url="https://raw.githubusercontent.com/jamesarthurbarker/thread/main/updates/Thread3-1.delta" sparkle:deltaFrom="1" length="183702" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bCFkFouBQaRGEbQVHZl8brDHJSzANvvRPLjkXqKVfXcGXRpDvON5XeBu9KG9pvNmLnxi/ypx2KixPTAqmUB2DA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Thu, 09 Jul 2026 12:45:18 -0700</pubDate>
             <sparkle:version>2</sparkle:version>
