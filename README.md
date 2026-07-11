@@ -35,3 +35,9 @@ This repository also hosts the [Sparkle](https://sparkle-project.org) auto-updat
 
 - `updates/appcast.xml` — the update manifest Thread checks
 - `updates/Thread-*.dmg` — notarized release builds
+
+## Disclaimer
+
+Thread is a personal project I built to learn, shared as-is with no warranty or guarantees of any kind. Use it at your own risk — I'm not responsible for anything that happens as a result of using it, including how you choose to record, store, or share your meetings and notes. Please make sure you have consent before recording others.
+
+This is a personal side project and is not affiliated with, endorsed by, or connected to my employer.
