@@ -1,5 +1,7 @@
 # Thread
 
+![Thread running a local meeting transcript on macOS](assets/thread-app.png)
+
 Thread is a private meeting companion for macOS. Start it before a call and it listens, transcribes the conversation live, and helps you turn it into clean notes, summaries, and follow-ups — without anything ever leaving your Mac.
 
 Everything runs locally on your device. There's no account, no sign-up, and no cloud: your meetings, notes, and transcripts stay entirely on your Mac, even offline.
