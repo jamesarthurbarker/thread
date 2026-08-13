@@ -3,6 +3,22 @@
     <channel>
         <title>Thread</title>
         <item>
+            <title>0.4.23</title>
+            <pubDate>Thu, 13 Aug 2026 09:46:04 -0700</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>0.4.23</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/jamesarthurbarker/thread/main/updates/Thread-0.4.23.dmg" length="3966771" type="application/octet-stream" sparkle:edSignature="Yyw4061YQKP2RTsIB1C2a5kvYSz6tGQQhMpD/bB8oWzLspoBqUlOmBAZXfr1y2nWG3QIVYJY74FQtXcYz6OhAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/jamesarthurbarker/thread/main/updates/Thread27-26.delta" sparkle:deltaFrom="26" length="261682" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GOUO9e0zxwUBhkTCl5Mu+1B1RKg8w8OJPvGaEyr4Gxy+Zpi0S7AZM1jD/h061YCf8GdimeOaR4WG5/3VHtxQDQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/jamesarthurbarker/thread/main/updates/Thread27-25.delta" sparkle:deltaFrom="25" length="380126" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UvHTwGYsYionPxVPaBj14OsdWpDYdknDPFM/YLoBok/tNQ+Nf8ozFap+wdwbDDCUKGjO3y+MTIFQgOzOHfWpBA=="/>
+                <enclosure url="https://raw.githubusercontent.com/jamesarthurbarker/thread/main/updates/Thread27-24.delta" sparkle:deltaFrom="24" length="405766" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="O9Vb10hCYsB3aoNqspFc1cLqBf7NAiz6FgM2Eje5U1/a8ArTi0npbxvGbVvYDPSGXpNNQ38PraAIan4wvJcRDw=="/>
+                <enclosure url="https://raw.githubusercontent.com/jamesarthurbarker/thread/main/updates/Thread27-23.delta" sparkle:deltaFrom="23" length="703730" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZBc5DoS5x47ZxqyQIYNB/yZS8WGnCsdgeOUFKZinXl93HMxe89aE5wPSsUsI7xznjo/FRv5J+sVcgHchZn1MAQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/jamesarthurbarker/thread/main/updates/Thread27-22.delta" sparkle:deltaFrom="22" length="741178" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="T7nNkVik7PMqMMsLCluUfc9S9YOPA+VMwH0lmZdVFDibXDA0yAZE0Aze4dMWC/xpiqxF6AQS4BTYmuZM5T6+Ag=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.4.22</title>
             <pubDate>Wed, 12 Aug 2026 13:54:28 -0700</pubDate>
             <sparkle:version>26</sparkle:version>
@@ -32,22 +48,6 @@
                 <enclosure url="https://raw.githubusercontent.com/jamesarthurbarker/thread/main/updates/Thread25-22.delta" sparkle:deltaFrom="22" length="629666" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="r147MzB+pa/Bb2oVxKYhmbbzN9a9XFQBjZaVwO9vNy0RJHVdmZwTr0ptPHKwpN5THav1ywuu+in+d+XgMMRbBw=="/>
                 <enclosure url="https://raw.githubusercontent.com/jamesarthurbarker/thread/main/updates/Thread25-21.delta" sparkle:deltaFrom="21" length="629158" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="V4J3RdVlPhhI8Ml2/whkxyhYwxXuL3c/E9N9xjmPu54vLss1lb6XIBuygALPfFoRKTETH2LtZ9AhX4DXMI2oCg=="/>
                 <enclosure url="https://raw.githubusercontent.com/jamesarthurbarker/thread/main/updates/Thread25-20.delta" sparkle:deltaFrom="20" length="686534" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cGw3+Agk4swc0jQs8PplDuRE1PNzwsRThpcw+RSslNoOJW5t8/fdyZ1cKmuNDasYZeoSGy77iXFEGOoWEdXPCQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.4.20</title>
-            <pubDate>Sun, 02 Aug 2026 15:07:13 -0700</pubDate>
-            <sparkle:version>24</sparkle:version>
-            <sparkle:shortVersionString>0.4.20</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/jamesarthurbarker/thread/main/updates/Thread-0.4.20.dmg" length="3827512" type="application/octet-stream" sparkle:edSignature="EI2PF4hji/6P8AiNT4v0dy25sT1n3zqJ5OyJMThfoQ5Nk0KMtrpsLwcpTcIx8tSDxAYvDrsm2WXDUYZ5dg2KDw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/jamesarthurbarker/thread/main/updates/Thread24-23.delta" sparkle:deltaFrom="23" length="579450" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Fg5/H0Ub7kxoTt4jkvhnfkn2xlfieZ6lxYbxZUGJzoXClm/2cdzVIWUfhh0nLkHU5dlmhF4DO9Ij7glkiAXXBQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/jamesarthurbarker/thread/main/updates/Thread24-22.delta" sparkle:deltaFrom="22" length="623838" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hwLjvM0yWGbhenVbQwA/9+14ur1NClHxBsPr7bqUJMA4zDD8NVAGePV6KoF+oWZ2wg1xWrj+SXuDCyrDxeY3Dw=="/>
-                <enclosure url="https://raw.githubusercontent.com/jamesarthurbarker/thread/main/updates/Thread24-21.delta" sparkle:deltaFrom="21" length="620422" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lS1AQApDFjnpPAV5t6tzuJQPNanfzaF82K7affQu9TpfJaatLio/1a6FyEOK7W2f+WC+rqLuYz02SfCUwlrGAA=="/>
-                <enclosure url="https://raw.githubusercontent.com/jamesarthurbarker/thread/main/updates/Thread24-20.delta" sparkle:deltaFrom="20" length="673302" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yG0HdJ42VnifNjlRzp8HOrBSbd5SnlOd2kZ1PJ5De6GyWjfiU+k7xFjEIwTN0T9+rqTp1YFF9aPE8qeV020PDg=="/>
-                <enclosure url="https://raw.githubusercontent.com/jamesarthurbarker/thread/main/updates/Thread24-19.delta" sparkle:deltaFrom="19" length="683402" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="foZyubwxnu5+UTwMqjynxTSiQAF1/dyEBRk3lb/h27MyOjK92J9zAq/ZX3W3L2AeGAgpiDSCY2dkD6TALDl+BQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
